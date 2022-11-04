@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.one{
+  background-color: #FFFECC;
+}
+.one :hover{
+    color: black;
+}
+.two{
+ background-color: #FFE4C7;
+}
+.three{
+  background-color: #FFD2CF;
+}
+.four{
+  background-color: #D2D3FF;
+}
+.five{
+  background-color: #C6DEFF;
+}
+.six{
+  background-color: #CFFDC9;
+}
+.seven{
+  background-color: #E3EFC7;
+}
+.eight{
+  background-color: #C9FEFF;
+}
+.nine{
+    background-color: #CFFDEC;
+}
